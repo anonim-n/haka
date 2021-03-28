@@ -75,6 +75,11 @@
   top: 15px;
 }
 
+.home .desyou .b3 a {
+  color: #fff;
+  text-decoration: none;
+}
+
 .home .desyou .b3 .b1:hover {
   background: green;
 }
