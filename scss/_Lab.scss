@@ -1,0 +1,38 @@
+.Lab{
+    width: 100%;
+    position: relative;
+    .design{
+        position: absolute;
+        top: 20%;
+        left: 10%;
+        width: 30%;
+        color: #fff;
+        p{
+            font-size: 25px;
+        }
+        h1{
+            font-size: 45px;
+        }
+        .desyou{
+            button{
+                border-radius: 5px;
+                border: none;
+                font-size: 20px;
+                color: #fff;
+            }
+            .b1{
+                width: 200px;
+                height: 90px;
+                position: relative;
+                top: 15px;
+                .b1:hover{
+                    background: green;
+                }
+            }
+            .b2{
+                width: 200px;
+                height: 90px;
+            }
+        }
+    }
+}
