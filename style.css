@@ -1,3 +1,8 @@
+.header {
+  background: #212529;
+  padding: 0 100px;
+}
+
 .Lab {
   width: 100%;
   position: relative;
@@ -24,6 +29,11 @@
   border: none;
   font-size: 20px;
   color: #fff;
+}
+
+.Lab .design .desyou button a {
+  color: #fff;
+  text-decoration: none;
 }
 
 .Lab .design .desyou .b1 {
@@ -117,6 +127,11 @@
   height: 53px;
   margin-left: 40%;
   border-radius: 8px;
+}
+
+.caruesel button a {
+  color: #fff;
+  text-decoration: none;
 }
 
 .caruesel .images {
